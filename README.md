@@ -1,6 +1,6 @@
 # pacman
 
-Class project from CS61B: Data Structures, taken in Spring 2022.
+Class project from CS188: Introduction to Artifical Intelligence, taken in Fall 2022.
 
 This project involved applying complex search algorithms to Pacman, allowing the agent to find paths through his maze world to reach a particular location and to collect food efficiently. Some specific algorithms used are Minimax, Alpha-Beta pruning, Expectimax, Uniform Cost Search or Greedy Best-First Search. 
 
